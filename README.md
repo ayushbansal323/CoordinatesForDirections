@@ -33,7 +33,7 @@ STEPS
   * ``` mvn clean install ```
   * ``` mvn exec:java -Dexec.mainClass="com.locus.main.Main" ```
 
-### As a server application
+#### As a server application
 
 
 PREREQ
