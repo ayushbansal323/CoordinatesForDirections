@@ -1,4 +1,5 @@
 # CoordinatesForDirections
+
 gives the direction for equal distance coordinates
 
 ## Test the application 
@@ -49,3 +50,13 @@ STEPS
   ``` 
  curl --location --request GET 'BASE_URL/directions?startLatitude=12.93175&startLongitude=77.62872&endLatitude=12.92662&endLongitude=77.63696'
  ```
+
+
+## Code Structure 
+
+* com/locus/main/Main.java is the starting point for the JAVA application
+* com/locus/controller/DirectionsController.java is the starting controller for the server application
+* com.locus.util package contains all the Utility files
+* com.locus.spring package contains spring config and initialization packages
+* com.locus.pojo contains all the pojos
+* com/locus/util/Configurations.java files contains configurations that are needed in the application which are initialize during run time no instance of the class can be created
