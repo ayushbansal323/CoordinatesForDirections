@@ -109,3 +109,13 @@ response
 
 test cases can be found in 
 https://docs.google.com/spreadsheets/d/1XyrvWBsKxaNdnBVlt1HsrkUBxx4hTUjx6TIrS289W_Q/edit?usp=sharing
+
+
+## sample results
+
+![picture alt](https://drive.google.com/uc?export=view&id=1tK4i_44G3CixIPUEHDB3QxF9VzU_gUEZ "Curve Road")
+
+![picture alt](https://drive.google.com/uc?export=view&id=1VAt2_y_FCzu6wn4SGiY_TuU3UognEhyP "straight road")
+
+![picture alt](https://drive.google.com/uc?export=view&id=1zWHm_mtj_PbyOOGGpO7FA2aMMObZfItB "zigzag road")
+
